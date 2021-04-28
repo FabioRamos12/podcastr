@@ -12,7 +12,7 @@
     <a href="#pencil-license">License</a>
 </p>
 
-## About
+## :headphones: About
 
 Podcastr is a platform for podcast broadcasting
 
@@ -20,7 +20,7 @@ This is a project developed during the **[Next Level Week](https://nextlevelweek
 
 ---
 
-## 🔖 Layout
+## :computer: Layout
 
 You can view the project layout through the links below:
 
@@ -46,7 +46,7 @@ Remembering that you need to have a [Figma](http://figma.com/) account to access
 
 ---
 
-## Getting Started
+## :rocket: Getting Started
 
 ### Requirements
 
@@ -75,7 +75,7 @@ The app will be available for access on your browser at `http://localhost:3000`
 
 ---
 
-## 🧪 Technologies
+## :microscope: Technologies
 
 This project was developed using the following technologies:
 
@@ -85,7 +85,7 @@ This project was developed using the following technologies:
 
 ---
 
-## Author
+## :pencil2: Author
 
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/34969286?s=400&u=15eb378fc8be34ee27c691a916634fe9a7a999a0&v=4" width="100px;" alt="Fabio Ramos"/>
  <span>Fabio Ramos</span>
@@ -95,7 +95,7 @@ This project was developed using the following technologies:
 
 ---
 
-## 📝 License
+## :pencil: License
 
 This project is under the license [MIT](./LICENSE).
 
