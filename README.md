@@ -1,22 +1,24 @@
 <h1 align="center">
     <img alt="Icon" title="#Icon" src=".github/icon.png"/>
-    <h4>Podcastr</h4>
+    <span align="center">Podcastr</span>
 </h1>
 
 <p align="center">
     <a href="#podcastr">Podcastr</a> •
     <a href="#layout">Layout</a> •
-    <a href="#getting-started">Getting started</a> • 
+    <a href="#getting-started">Getting Started</a> • 
     <a href="#technologies">Technologies</a> • 
     <a href="#author">Author</a> • 
-    <a href="#License">License</a>
+    <a href="#license">License</a>
 </p>
 
-## 🎧 Podcastr
+## 🎧 About
 
 Podcastr is a platform for podcast broadcasting
 
 This is a project developed during the **[Next Level Week](https://nextlevelweek.com/)**, presented by **[@Rocketseat](https://github.com/Rocketseat)** during April 19-25, 2021.
+
+---
 
 ## 🔖 Layout
 
@@ -42,7 +44,9 @@ Remembering that you need to have a [Figma](http://figma.com/) account to access
   <img alt="Podcastr" title="#Podcastr" src=".github/web-mobile-layout-2.png" width="400px">
 </p>
 
-## 🚀 Getting started
+---
+
+## 🚀 Getting Started
 
 ### Requirements
 
