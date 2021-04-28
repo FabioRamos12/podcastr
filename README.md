@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-    <a href="#podcastr">Podcastr</a> •
+    <a href="#About">About</a> •
     <a href="#layout">Layout</a> •
     <a href="#getting-started">Getting Started</a> • 
     <a href="#technologies">Technologies</a> • 
@@ -94,8 +94,8 @@ This project was developed using the following technologies:
  </a> 
  <br />
 
-[[![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/fabioalvesramos/) 
-[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fabioalvesramos12@gmail.com)](mailto:tgmarinho@gmail.com)
+[[![Linkedin Badge](https://img.shields.io/badge/-FabioRamos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabioalvesramos/)](https://www.linkedin.com/in/fabioalvesramos/) 
+[![Gmail Badge](https://img.shields.io/badge/-fabioalvesramos12@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fabioalvesramos12@gmail.com)](mailto:fabioalvesramos12@gmail.com)
 
 ---
 
