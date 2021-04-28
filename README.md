@@ -28,7 +28,7 @@ You can view the project layout through the links below:
 
 Remembering that you need to have a [Figma](http://figma.com/) account to access it.
 
-### Web
+### :globe_with_meridians: Web
 
 <p align="center">
   <img alt="Podcastr" title="#Podcastr" src=".github/web-layout-1.png" width="400px">
@@ -36,7 +36,7 @@ Remembering that you need to have a [Figma](http://figma.com/) account to access
   <img alt="Podcastr" title="#Podcastr" src=".github/web-layout-2.png" width="400px">
 </p>
 
-### Web Mobile
+### :iphone: Web Mobile
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
   <img alt="Podcastr" title="#Podcastr" src=".github/web-mobile-layout-1.png" width="400px" height="410px">
