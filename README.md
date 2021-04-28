@@ -4,15 +4,15 @@
 </h1>
 
 <p align="center">
-    <a href="#About">About</a> •
-    <a href="#🔖-layout">Layout</a> •
-    <a href="#🚀-getting-started">Getting Started</a> • 
-    <a href="#technologies">Technologies</a> • 
-    <a href="#author">Author</a> • 
-    <a href="#license">License</a>
+    <a href="#headphones-about">About</a> •
+    <a href="#computer-layout">Layout</a> •
+    <a href="#rocket-getting-started">Getting Started</a> • 
+    <a href="#microscope-technologies">Technologies</a> • 
+    <a href="#pencil2-author">Author</a> • 
+    <a href="#pencil-license">License</a>
 </p>
 
-## 🎧 About
+## About
 
 Podcastr is a platform for podcast broadcasting
 
@@ -46,7 +46,7 @@ Remembering that you need to have a [Figma](http://figma.com/) account to access
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Requirements
 
@@ -55,7 +55,7 @@ Remembering that you need to have a [Figma](http://figma.com/) account to access
 **Clone the project and access the folder**
 
 ```bash
-$ git clone https://github.com/FabioRamos12/podcastr.git && cd podcastr
+$ git clone https://github.com/josepholiveira/podcastr.git && cd podcastr
 ```
 
 **Follow the steps below**
