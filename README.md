@@ -4,9 +4,9 @@
 </h1>
 
 <p align="center">
-    <a href="#about">About</a> •
-    <a href="#layout">Layout</a> •
-    <a href="#getting-started">Getting Started</a> • 
+    <a href="#About">About</a> •
+    <a href="#🔖-layout">Layout</a> •
+    <a href="#🚀-getting-started">Getting Started</a> • 
     <a href="#technologies">Technologies</a> • 
     <a href="#author">Author</a> • 
     <a href="#license">License</a>
@@ -20,7 +20,7 @@ This is a project developed during the **[Next Level Week](https://nextlevelweek
 
 ---
 
-## Layout
+## 🔖 Layout
 
 You can view the project layout through the links below:
 
@@ -46,7 +46,7 @@ Remembering that you need to have a [Figma](http://figma.com/) account to access
 
 ---
 
-## Getting Started
+## 🚀 Getting Started
 
 ### Requirements
 
@@ -75,7 +75,7 @@ The app will be available for access on your browser at `http://localhost:3000`
 
 ---
 
-## Technologies
+## 🧪 Technologies
 
 This project was developed using the following technologies:
 
@@ -89,7 +89,7 @@ This project was developed using the following technologies:
 
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/34969286?s=400&u=15eb378fc8be34ee27c691a916634fe9a7a999a0&v=4" width="100px;" alt="Fabio Ramos"/>
  <span>Fabio Ramos</span>
-
+ 
  <br />
 
 [![Linkedin Badge](https://img.shields.io/badge/-FabioRamos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabioalvesramos/)](https://www.linkedin.com/in/fabioalvesramos/) 
@@ -97,7 +97,7 @@ This project was developed using the following technologies:
 
 ---
 
-## License
+## 📝 License
 
 This project is under the license [MIT](./LICENSE).
 
