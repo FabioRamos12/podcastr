@@ -1,29 +1,46 @@
 <h1 align="center">
-    <img alt="Podcastr" title="Podcastr" src=".github/playing.svg"/>
-    <h4>Podcastr is a platform for podcast broadcasting</h4>
+    <img alt="Icon" title="#Icon" src=".github/icon.png"/>
+    <h4>Podcastr</h4>
 </h1>
 
 <p align="center">
-  <img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=5965E0&labelColor=121214" alt="License">
-  
-  <img src="https://img.shields.io/github/forks/guilhermecapitao/podcastr?label=forks&message=MIT&color=5965E0&labelColor=121214" alt="Forks">     
-
-  <img src="https://img.shields.io/github/stars/guilhermecapitao/podcastr?label=stars&message=MIT&color=5965E0&labelColor=121214" alt="Stars">
+    <a href="#podcastr">Podcastr</a> •
+    <a href="#layout">Layout</a> •
+    <a href="#getting-started">Getting started</a> • 
+    <a href="#technologies">Technologies</a> • 
+    <a href="#author">Author</a> • 
+    <a href="#License">License</a>
 </p>
 
-<br>
+## 🎧 Podcastr
+
+Podcastr is a platform for podcast broadcasting
+
+This is a project developed during the **[Next Level Week](https://nextlevelweek.com/)**, presented by **[@Rocketseat](https://github.com/Rocketseat)** during April 19-25, 2021.
+
+## 🔖 Layout
+
+You can view the project layout through the links below:
+
+- [Layout Web](https://www.figma.com/file/UwFEntsHpHYJlHNQAQr4gA/Podcastr?node-id=160%3A2761) 
+
+Remembering that you need to have a [Figma](http://figma.com/) account to access it.
+
+### Web
 
 <p align="center">
-  <img alt="Moveit" src=".github/icon.svg" width="160px">
+  <img alt="Podcastr" title="#Podcastr" src=".github/web-layout-1.png" width="200px">
+
+  <img alt="Podcastr" title="#Podcastr" src=".github/web-layout-2.png" width="200px">
 </p>
 
-## 🧪 Technologies
+### Web Mobile
 
-This project was developed using the following technologies:
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="Podcastr" title="#Podcastr" src=".github/web-mobile-layout-1.png" width="400px">
 
-- [Next.js](https://nextjs.org/)
-- [React](https://reactjs.org)
-- [TypeScript](https://www.typescriptlang.org/)
+  <img alt="Podcastr" title="#Podcastr" src=".github/web-mobile-layout-2.png" width="400px">
+</p>
 
 ## 🚀 Getting started
 
@@ -52,23 +69,34 @@ $ yarn dev
 
 The app will be available for access on your browser at `http://localhost:3000`
 
-## 💻 Project
+---
 
-[Podcastr](https://podcastr-nlw.vercel.app/) to bring you even closer to the best technology podcasts! 💜 
+## 🧪 Technologies
 
-This is a project developed during the **[Next Level Week](https://nextlevelweek.com/)**, presented by **[@Rocketseat](https://github.com/Rocketseat)** during April 19-25, 2021.
+This project was developed using the following technologies:
 
-## 🔖 Layout
+- [Next.js](https://nextjs.org/)
+- [React](https://reactjs.org)
+- [TypeScript](https://www.typescriptlang.org/)
 
-You can view the project layout through the links below:
+---
 
-- [Layout Web](https://www.figma.com/file/UwFEntsHpHYJlHNQAQr4gA/Podcastr?node-id=160%3A2761) 
+## Author
 
-Remembering that you need to have a [Figma](http://figma.com/) account to access it.
+<a href="https://blog.rocketseat.com.br/author/thiago/">
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/34969286?s=400&u=15eb378fc8be34ee27c691a916634fe9a7a999a0&v=4" width="100px;" alt="Fabio Ramos"/>
+ <br />
+ <span>Fabio Ramos</span>
+ </a> 
+ <br />
+
+[[![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/fabioalvesramos/) 
+[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fabioalvesramos12@gmail.com)](mailto:tgmarinho@gmail.com)
+
+---
 
 ## 📝 License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for details.
-
+This project is under the license [MIT](./LICENSE).
 
 ---
