@@ -58,10 +58,13 @@ export function PlayerContextProvider({ children }: PlayerContextProvideProps) {
 
     function toogleLoop() {
         setIsLooping(!isLooping)
+        setIsShuffling(false)
     }
 
     function toogleShuffle() {
         setIsShuffling(!isShuffling)
+        setIsLooping(false)
+
     }
 
     function setPlayingState(state: boolean) {

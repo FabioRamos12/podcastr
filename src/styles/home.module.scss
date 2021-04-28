@@ -173,3 +173,32 @@
         }
     }
 }
+
+@media (max-width: 768px) {
+    .homePage {
+        overflow-y: initial;       
+    }
+    .latestEpisodes {
+        ul {
+            display: flex;
+            flex-direction: column;
+
+            li {
+                padding: 1.25rem 0;
+            } 
+        }
+    }
+
+    .allEpisodes {
+        th:nth-child(3) {
+            display: none;
+        } 
+
+        tr {
+
+            td:nth-child(3) {
+                display: none;
+            }
+        }
+    }
+}

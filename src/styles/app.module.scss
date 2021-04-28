@@ -2,7 +2,19 @@
     display: flex;
 
     main {
-        flex: 1;
+        height: 100vh;
         max-width: 100%;
+    }
+}
+
+@media (max-width: 768px) {
+    .appWrapper {
+        display: flex;
+        flex-direction: column;
+    
+        main {
+            height: 100vh;
+            max-width: 100%;
+        }
     }
 }
