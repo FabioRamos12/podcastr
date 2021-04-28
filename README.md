@@ -31,9 +31,9 @@ Remembering that you need to have a [Figma](http://figma.com/) account to access
 ### Web
 
 <p align="center">
-  <img alt="Podcastr" title="#Podcastr" src=".github/web-layout-1.png" width="200px">
+  <img alt="Podcastr" title="#Podcastr" src=".github/web-layout-1.png" width="400px">
 
-  <img alt="Podcastr" title="#Podcastr" src=".github/web-layout-2.png" width="200px">
+  <img alt="Podcastr" title="#Podcastr" src=".github/web-layout-2.png" width="400px">
 </p>
 
 ### Web Mobile
@@ -55,7 +55,7 @@ Remembering that you need to have a [Figma](http://figma.com/) account to access
 **Clone the project and access the folder**
 
 ```bash
-$ git clone https://github.com/josepholiveira/podcastr.git && cd podcastr
+$ git clone https://github.com/FabioRamos12/podcastr.git && cd podcastr
 ```
 
 **Follow the steps below**
