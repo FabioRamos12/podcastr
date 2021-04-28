@@ -1,5 +1,6 @@
 <h1 align="center">
-    <img alt="Podcastr" title="Podcastr" src=".github/podcastr.svg" />
+    <img alt="Podcastr" title="Podcastr" src=".github/playing.svg"/>
+    <h4>Podcastr is a platform for podcast broadcasting</h4>
 </h1>
 
 <p align="center">
@@ -71,5 +72,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) fi
 
 
 ---
-
-<p align="center">Made with 💜 by Guilherme Capitão</p>
