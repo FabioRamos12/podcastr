@@ -46,11 +46,11 @@ Remembering that you need to have a [Figma](http://figma.com/) account to access
 
 ### :bulb: Dark Mode
 
-<p align="center" style="display: flex; flex-direction: column; align-items: flex-start; justify-content: center;">
+<div style="display: flex; flex-direction: column; align-items: flex-start; justify-content: center;">
   <img alt="Podcastr" title="#Podcastr" src=".github/dark-mode-web.png" width="400px">
 
   <img alt="Podcastr" title="#Podcastr" src=".github/dark-mode-mobile.png" width="400px" height="410px">
-</p>
+</div>
 
 ---
 
