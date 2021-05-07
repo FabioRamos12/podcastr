@@ -25,6 +25,8 @@ type PlayerContextData = {
     clearPlayerState: () => void
     hasNext: boolean
     hasPrevious: boolean
+    darkModeButton: () => void;
+    darkMode: boolean
 }
 
 export const PlayerContext = createContext({} as PlayerContextData);
@@ -39,6 +41,16 @@ export function PlayerContextProvider({ children }: PlayerContextProvideProps) {
     const [isPlaying, setIsPlaying] = useState(false)
     const [isLooping, setIsLooping] = useState(false)
     const [isShuffling, setIsShuffling] = useState(false)
+    const [darkMode, setDarkMode] = useState(false)
+
+    function darkModeButton() {
+        const buttonDarkMode = document.getElementById("dark-mode")
+        if (buttonDarkMode.checked == true) {
+            setDarkMode(true)
+        } else {
+            setDarkMode(false)
+        }
+    }
 
     function play(episode: Episode) {
         setEpisodeList([episode])
@@ -112,7 +124,9 @@ export function PlayerContextProvider({ children }: PlayerContextProvideProps) {
                 toogleLoop,
                 toogleShuffle,
                 setPlayingState,
-                clearPlayerState
+                clearPlayerState,
+                darkModeButton,
+                darkMode
             }}
         >
             { children}

@@ -4,7 +4,7 @@
 
     display: flex;
     align-items: center;
-    padding: 2rem 4rem;
+    padding: 2rem 2rem;
 
     border-top: 1px solid var(--gray-100);
 
@@ -19,3 +19,90 @@
         text-transform: capitalize;
     }
 }
+
+.darkHeader {
+    background: black;
+    color: var(--white);
+    height: 6.5rem;
+
+    display: flex;
+    align-items: center;
+    padding: 2rem 2rem;
+
+    border-top: 1px solid var(--gray-100);
+
+    p {
+        margin-left: 2rem;
+        padding: 0.25rem 0 0.25rem 2rem;
+        border-left: 1px solid var(--gray-100);
+    }
+
+    span {
+        margin-left: auto;
+        text-transform: capitalize;
+    }
+}
+
+.darkModeButtonContainer {
+    margin-left: 10px;
+
+    .switch {
+        position: absolute;
+        margin-left: -9999px;
+        visibility: hidden;
+    }
+      
+    .switch + label {
+        display: block;
+        position: relative;
+        cursor: pointer;
+        outline: none;
+        user-select: none;
+    }
+    
+    .switchShadow + label {
+        padding: 2px;
+        width: 60px;
+        height: 30px;
+        border-radius: 60px;
+        background: var(--gray-800) url('/moon.svg') no-repeat;
+        background-size: 40%;
+        background-position: 34px;
+    }
+    
+    .switchShadow + label:before,
+    .switchShadow + label:after {
+      display: block;
+      position: absolute;
+      top: 1px;
+      left: 1px;
+      bottom: 1px;
+      content: '';
+    }
+    
+    .switchShadow + label:before {
+      right: 1px;
+      
+      border-radius: 60px;
+      transition: all 0.2s;
+    }
+    
+    .switchShadow + label:after {
+      width: 31px;
+      background-color: var(--gray-200);
+      border-radius: 100%;
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+      transition: all 0.4s;
+    }
+    
+    .switchShadow:checked + label:before {
+        background: var(--gray-800) url('/sun.svg') no-repeat;
+        background-size: 40%;
+        background-position: 4px;
+    }
+    
+    .switchShadow:checked + label:after {
+        transform: translateX(30px);
+    }
+}
+
